@@ -1,6 +1,7 @@
 ---
+13Jun25
 uuden istunnon alussa pitänee tehdä eval... ja ssh-add...
-toimivat skriptit ovat client-server02 -hakemistossa server3.js ja index3.html
+skriptit from rv.kadun client-server02 -hakemisto server3.js ja index3.html
 ---
 Step 1: Install Node.js and Express
 Install Node.js: If you don't have Node.js installed, you can download it from the Node.js official website.
